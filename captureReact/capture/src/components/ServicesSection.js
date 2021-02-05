@@ -68,7 +68,7 @@ const Cards = styled.div`
 `;
 
 const Card = styled.div`
-  flex-basis: 15rem;
+  flex-basis: 17rem;
   .icon {
     display: flex;
     align-items: center;
